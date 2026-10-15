@@ -1,0 +1,29 @@
+.xxx {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    padding: 1rem 2rem;
+    background-color: aliceblue;
+}
+.xxx2 {
+    display: flex;
+    gap: 60px;
+}
+li{
+    list-style-type: none;
+}
+.logo{
+    width: auto;
+}
+.logo img {
+    width:50px;
+    height: auto;
+}
+.xxx3 {
+    width: 100%; 
+    margin: 0%;
+    padding: 0%;   
+}
+.xxx3 img {
+width: 100%;
+}
